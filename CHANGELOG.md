@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/DmitryLebedevDev/bestFood/compare/v1.8.0...v1.9.0) (2024-07-27)
+
+
+### Features
+
+* deleted folder ([b5403b0](https://github.com/DmitryLebedevDev/bestFood/commit/b5403b01ed462b1630b53b29e6b57d6ffa0dc7f7))
+
 # [1.8.0](https://github.com/DmitryLebedevDev/bestFood/compare/v1.7.0...v1.8.0) (2024-07-27)
 
 
